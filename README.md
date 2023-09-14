@@ -10,7 +10,6 @@
 - useState
 - useEffect
 - Axios
-- SASS
 
 # Libreria Usada
 - React Youtube : https://www.npmjs.com/package/react-youtube 
